@@ -9,7 +9,3 @@ create table ontologija(
     uGodini int(255) not null,
     zaradioJe int(255) not null
 );
-
-insert into ontologija (ime_redatelja, grad_premijere, uDrzavi, jePremijernoPrikazan, uGodini, zaradioJe)
-values ('Baz Lurhmann', 'Los Angeles', 'SAD', 'siječanj', 2015, 7588305);
-values ('Carlo Carlei', 'Pariz', 'Francuska', 'ožujak', 2015, 2375492);
