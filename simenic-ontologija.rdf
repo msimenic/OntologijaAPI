@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://oziz.ffos.hr/tsw2/msimenic/zarada_filma#"
+         xmlns:ns1="http://oziz.ffos.hr/msimenic/frj-ontologija#">
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#1">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">siječanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	7598305</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#2">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">veljača</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	486936</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#3">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ožujak</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2965849</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#4">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">travanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	7949849</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#5">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">svibanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	365866</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#6">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lipanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3847684</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#7">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">srpanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	598695</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#8">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kolovoz</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3848578</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#9">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rujan</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4938375</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#10">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Baz Luhrmann</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Buz_Luhrman"/>
+    <ns0:grad_premijere>Los Angeles</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Los_Angeles"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAD</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">listopad</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4859604</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#11">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">veljača</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4960676</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#12">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ožujak</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2375492</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#13">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">travanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2405056</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#14">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">svibanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	698793</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#15">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lipanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	583725</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#16">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">srpanj</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4593022</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#17">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kolovoz</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3949505</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#18">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rujan</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	293047</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#19">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">listopad</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	182834</ns1:zaradioJe>
+  </rdf:Description>
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/tsw2/msimenic/zarada-filma#20">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw/msimenic/zarada-filma#zarada_filma"/>
+    <ns0:ime_redatelja>Carlo Carlei</ns0:ime_redatelja>
+    <ns0:uri_redatelja rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Carlo_Carlei"/>
+    <ns0:grad_premijere>Pariz</ns0:grad_premijere>
+    <ns0:uri_grada rdf:resource="http://oziz.ffos.hr/msimenic/frj-ontologija#Pariz"/>
+    <ns1:uDrzavi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francuska</ns1:uDrzavi>
+    <ns1:jePremijernoPrikazan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studeni</ns1:jePremijernoPrikazan>
+    <ns1:uGodini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:uGodini>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	1893848</ns1:zaradioJe>
+  </rdf:Description>
+
+</rdf:RDF>
